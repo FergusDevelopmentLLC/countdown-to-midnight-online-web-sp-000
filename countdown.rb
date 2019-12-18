@@ -1,9 +1,9 @@
 #write your code here
 
 def countdown(counter)
-  while counter < 20
+  while counter > 0
     puts "The current number is less than 20."
-    counter += 1
+    counter -= 1
   end
 end
 countdown(12)
