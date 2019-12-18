@@ -6,4 +6,4 @@ def countdown(counter)
     counter -= 1
   end
 end
-countdown(12)
+countdown(1000)
